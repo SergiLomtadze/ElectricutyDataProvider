@@ -1,7 +1,5 @@
 using ElectricityDataProvider.BusinessLogic;
-using ElectricityDataProvider.BusinessLogic.Interfaces;
 using ElectricityDataProvider.Persistence;
-using ElectricityDataProvider.Persistence.Context;
 using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
