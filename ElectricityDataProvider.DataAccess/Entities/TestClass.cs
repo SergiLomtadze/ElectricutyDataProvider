@@ -9,5 +9,7 @@ namespace ElectricityDataProvider.DataAccess.Entities
     internal class TestClass
     {
         //1
+
+        //2
     }
 }
